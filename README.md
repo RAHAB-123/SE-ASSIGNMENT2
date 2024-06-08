@@ -7,9 +7,11 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+It is a systemmatic
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
