@@ -7,17 +7,36 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-It is a systemmatic
+It is a systematic application of the engineering principles, methods and tools to the development and maintenance of high-quality software systems.
+
 
 What is software engineering, and how does it differ from traditional programming?
+Software engineering is a systematic application of the engineering principles, methods and tools to the development and maintenance of high-quality software systems. It differs from the traditional programming in that;
+
+
+
+
+
 Software Development Life Cycle (SDLC):
+
 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+There are six phases of the software development life cycle and they include;
+   a) Requirements- this involves gathering and documenting the user needs as well as the system requirements.
+   b) Design- this phase involves creatin of high-level and detailed designs of the software architecture and user interface.
+   c) Implementation- this entails writing code and building the software according to the design specifications.
+   d) Testing- this is where tests are conducted to ensure the software meets quality standards and functional requirements.
+   e) Deployemensoftwaret- in this phase, the software is released to the customer.
+   f) Maintenance- this is the last phase where support, updates and enhancements to the software are carried out.
+
+
+
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
+
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
@@ -38,6 +57,10 @@ Define software maintenance and explain the different types of maintenance activ
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+
+
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
